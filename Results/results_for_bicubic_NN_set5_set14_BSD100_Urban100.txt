@@ -1,0 +1,890 @@
+./Set14_\image_SRF_2\img_001_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.8074 dB / 0.6815
+./Set14_\image_SRF_2\img_001_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.2302 dB / 0.6652
+./Set14_\image_SRF_2\img_002_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.8319 dB / 0.8331
+./Set14_\image_SRF_2\img_002_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.9598 dB / 0.8148
+./Set14_\image_SRF_2\img_003_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.9796 dB / 0.8253
+./Set14_\image_SRF_2\img_003_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.7921 dB / 0.7909
+./Set14_\image_SRF_2\img_004_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.3165 dB / 0.7913
+./Set14_\image_SRF_2\img_004_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.3236 dB / 0.7727
+./Set14_\image_SRF_2\img_005_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.8354 dB / 0.8636
+./Set14_\image_SRF_2\img_005_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.2409 dB / 0.8218
+./Set14_\image_SRF_2\img_006_SRF_2_HR.png
+PSNR/SSIM for nearest: 35.0279 dB / 0.8246
+./Set14_\image_SRF_2\img_006_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.6315 dB / 0.8058
+./Set14_\image_SRF_2\img_007_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.3285 dB / 0.8951
+./Set14_\image_SRF_2\img_007_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.1159 dB / 0.8605
+./Set14_\image_SRF_2\img_008_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.5526 dB / 0.9471
+./Set14_\image_SRF_2\img_008_SRF_2_HR.png
+PSNR/SSIM for bicubic: 31.0992 dB / 0.9310
+./Set14_\image_SRF_2\img_009_SRF_2_HR.png
+PSNR/SSIM for nearest: 35.0155 dB / 0.8656
+./Set14_\image_SRF_2\img_009_SRF_2_HR.png
+PSNR/SSIM for bicubic: 32.3533 dB / 0.8457
+./Set14_\image_SRF_2\img_010_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.4417 dB / 0.8541
+./Set14_\image_SRF_2\img_010_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.0121 dB / 0.8250
+./Set14_\image_SRF_2\img_011_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.9122 dB / 0.9546
+./Set14_\image_SRF_2\img_011_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.6600 dB / 0.9240
+./Set14_\image_SRF_2\img_012_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.2939 dB / 0.8501
+./Set14_\image_SRF_2\img_012_SRF_2_HR.png
+PSNR/SSIM for bicubic: 31.0872 dB / 0.8330
+./Set14_\image_SRF_2\img_013_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.4091 dB / 0.9343
+./Set14_\image_SRF_2\img_013_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.0842 dB / 0.9172
+./Set14_\image_SRF_2\img_014_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.4105 dB / 0.9248
+./Set14_\image_SRF_2\img_014_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.5461 dB / 0.8777
+Bicu:  30.297334228445443 0.8603747487364474
+Near:  28.366855786791138 0.8346624470458947
+
+///////////////////////////////////////////
+./Set5_\image_SRF_2\img_001_SRF_2_HR.png
+PSNR/SSIM for nearest: 37.3403 dB / 0.9532
+./Set5_\image_SRF_2\img_001_SRF_2_HR.png
+PSNR/SSIM for bicubic: 34.1510 dB / 0.9269
+./Set5_\image_SRF_2\img_002_SRF_2_HR.png
+PSNR/SSIM for nearest: 37.1828 dB / 0.9699
+./Set5_\image_SRF_2\img_002_SRF_2_HR.png
+PSNR/SSIM for bicubic: 32.6629 dB / 0.9348
+./Set5_\image_SRF_2\img_003_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.7724 dB / 0.9053
+./Set5_\image_SRF_2\img_003_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.7761 dB / 0.8665
+./Set5_\image_SRF_2\img_004_SRF_2_HR.png
+PSNR/SSIM for nearest: 35.0488 dB / 0.8247
+./Set5_\image_SRF_2\img_004_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.6619 dB / 0.8062
+./Set5_\image_SRF_2\img_005_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.3223 dB / 0.9491
+./Set5_\image_SRF_2\img_005_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.1161 dB / 0.9199
+Bicu:  33.73332456039001 0.9204503799636841
+Near:  30.673600432589417 0.8908639681112437
+
+///////////////////////////////////////////
+./BSD100_\image_SRF_2\img_001_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.8906 dB / 0.7574
+./BSD100_\image_SRF_2\img_001_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.9576 dB / 0.7342
+./BSD100_\image_SRF_2\img_002_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.5866 dB / 0.8864
+./BSD100_\image_SRF_2\img_002_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.2455 dB / 0.8700
+./BSD100_\image_SRF_2\img_003_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.6268 dB / 0.8598
+./BSD100_\image_SRF_2\img_003_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.8873 dB / 0.8422
+./BSD100_\image_SRF_2\img_004_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.5206 dB / 0.9323
+./BSD100_\image_SRF_2\img_004_SRF_2_HR.png
+PSNR/SSIM for bicubic: 31.1812 dB / 0.9050
+./BSD100_\image_SRF_2\img_005_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.0795 dB / 0.8513
+./BSD100_\image_SRF_2\img_005_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.9722 dB / 0.8195
+./BSD100_\image_SRF_2\img_006_SRF_2_HR.png
+PSNR/SSIM for nearest: 34.6890 dB / 0.9334
+./BSD100_\image_SRF_2\img_006_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.0948 dB / 0.9191
+./BSD100_\image_SRF_2\img_007_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.1445 dB / 0.8805
+./BSD100_\image_SRF_2\img_007_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.7336 dB / 0.8462
+./BSD100_\image_SRF_2\img_008_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.8894 dB / 0.8274
+./BSD100_\image_SRF_2\img_008_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.9565 dB / 0.7946
+./BSD100_\image_SRF_2\img_009_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.3300 dB / 0.8793
+./BSD100_\image_SRF_2\img_009_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.8376 dB / 0.8492
+./BSD100_\image_SRF_2\img_010_SRF_2_HR.png
+PSNR/SSIM for nearest: 34.0370 dB / 0.9406
+./BSD100_\image_SRF_2\img_010_SRF_2_HR.png
+PSNR/SSIM for bicubic: 32.0320 dB / 0.9125
+./BSD100_\image_SRF_2\img_011_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.3283 dB / 0.8409
+./BSD100_\image_SRF_2\img_011_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.1061 dB / 0.8262
+./BSD100_\image_SRF_2\img_012_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.4207 dB / 0.8932
+./BSD100_\image_SRF_2\img_012_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.3674 dB / 0.8534
+./BSD100_\image_SRF_2\img_013_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.0430 dB / 0.9251
+./BSD100_\image_SRF_2\img_013_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.9738 dB / 0.8842
+./BSD100_\image_SRF_2\img_014_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.9548 dB / 0.9059
+./BSD100_\image_SRF_2\img_014_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.7280 dB / 0.8914
+./BSD100_\image_SRF_2\img_015_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.7165 dB / 0.8502
+./BSD100_\image_SRF_2\img_015_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.5275 dB / 0.8185
+./BSD100_\image_SRF_2\img_016_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.4221 dB / 0.8801
+./BSD100_\image_SRF_2\img_016_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.9959 dB / 0.8366
+./BSD100_\image_SRF_2\img_017_SRF_2_HR.png
+PSNR/SSIM for nearest: 34.9870 dB / 0.9094
+./BSD100_\image_SRF_2\img_017_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.6386 dB / 0.8918
+./BSD100_\image_SRF_2\img_018_SRF_2_HR.png
+PSNR/SSIM for nearest: 34.5830 dB / 0.9347
+./BSD100_\image_SRF_2\img_018_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.2869 dB / 0.9213
+./BSD100_\image_SRF_2\img_019_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.3424 dB / 0.7624
+./BSD100_\image_SRF_2\img_019_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.6073 dB / 0.7503
+./BSD100_\image_SRF_2\img_020_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.9296 dB / 0.8795
+./BSD100_\image_SRF_2\img_020_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.7794 dB / 0.8642
+./BSD100_\image_SRF_2\img_021_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.7333 dB / 0.7921
+./BSD100_\image_SRF_2\img_021_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.6711 dB / 0.7640
+./BSD100_\image_SRF_2\img_022_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.8887 dB / 0.7987
+./BSD100_\image_SRF_2\img_022_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.7282 dB / 0.7686
+./BSD100_\image_SRF_2\img_023_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.0760 dB / 0.7178
+./BSD100_\image_SRF_2\img_023_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.6878 dB / 0.7074
+./BSD100_\image_SRF_2\img_024_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.5010 dB / 0.8965
+./BSD100_\image_SRF_2\img_024_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.3843 dB / 0.8681
+./BSD100_\image_SRF_2\img_025_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.4400 dB / 0.9280
+./BSD100_\image_SRF_2\img_025_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.6642 dB / 0.8909
+./BSD100_\image_SRF_2\img_026_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.1875 dB / 0.9067
+./BSD100_\image_SRF_2\img_026_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.6409 dB / 0.8885
+./BSD100_\image_SRF_2\img_027_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.1184 dB / 0.8606
+./BSD100_\image_SRF_2\img_027_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.4268 dB / 0.8279
+./BSD100_\image_SRF_2\img_028_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.2962 dB / 0.9106
+./BSD100_\image_SRF_2\img_028_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.7666 dB / 0.8830
+./BSD100_\image_SRF_2\img_029_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.8611 dB / 0.9239
+./BSD100_\image_SRF_2\img_029_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.9863 dB / 0.9166
+./BSD100_\image_SRF_2\img_030_SRF_2_HR.png
+PSNR/SSIM for nearest: 21.2418 dB / 0.7369
+./BSD100_\image_SRF_2\img_030_SRF_2_HR.png
+PSNR/SSIM for bicubic: 20.6124 dB / 0.7215
+./BSD100_\image_SRF_2\img_031_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.7910 dB / 0.9306
+./BSD100_\image_SRF_2\img_031_SRF_2_HR.png
+PSNR/SSIM for bicubic: 31.2615 dB / 0.9006
+./BSD100_\image_SRF_2\img_032_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.0467 dB / 0.6950
+./BSD100_\image_SRF_2\img_032_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.4948 dB / 0.6736
+./BSD100_\image_SRF_2\img_033_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.3811 dB / 0.8528
+./BSD100_\image_SRF_2\img_033_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.7991 dB / 0.8104
+./BSD100_\image_SRF_2\img_034_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.8275 dB / 0.8408
+./BSD100_\image_SRF_2\img_034_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.0370 dB / 0.8262
+./BSD100_\image_SRF_2\img_035_SRF_2_HR.png
+PSNR/SSIM for nearest: 36.0933 dB / 0.9159
+./BSD100_\image_SRF_2\img_035_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.4499 dB / 0.9039
+./BSD100_\image_SRF_2\img_036_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.5060 dB / 0.8460
+./BSD100_\image_SRF_2\img_036_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.1335 dB / 0.8185
+./BSD100_\image_SRF_2\img_037_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.2205 dB / 0.6524
+./BSD100_\image_SRF_2\img_037_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.8598 dB / 0.6497
+./BSD100_\image_SRF_2\img_038_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.8625 dB / 0.8172
+./BSD100_\image_SRF_2\img_038_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.9865 dB / 0.8033
+./BSD100_\image_SRF_2\img_039_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.4792 dB / 0.8953
+./BSD100_\image_SRF_2\img_039_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.7566 dB / 0.8589
+./BSD100_\image_SRF_2\img_040_SRF_2_HR.png
+PSNR/SSIM for nearest: 35.0919 dB / 0.9589
+./BSD100_\image_SRF_2\img_040_SRF_2_HR.png
+PSNR/SSIM for bicubic: 31.8380 dB / 0.9297
+./BSD100_\image_SRF_2\img_041_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.9875 dB / 0.8273
+./BSD100_\image_SRF_2\img_041_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.7547 dB / 0.8090
+./BSD100_\image_SRF_2\img_042_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.4214 dB / 0.8204
+./BSD100_\image_SRF_2\img_042_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.4992 dB / 0.8036
+./BSD100_\image_SRF_2\img_043_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.5017 dB / 0.8419
+./BSD100_\image_SRF_2\img_043_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.6412 dB / 0.8312
+./BSD100_\image_SRF_2\img_044_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.2841 dB / 0.9565
+./BSD100_\image_SRF_2\img_044_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.4064 dB / 0.9235
+./BSD100_\image_SRF_2\img_045_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.4197 dB / 0.8145
+./BSD100_\image_SRF_2\img_045_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.7645 dB / 0.7933
+./BSD100_\image_SRF_2\img_046_SRF_2_HR.png
+PSNR/SSIM for nearest: 35.3102 dB / 0.8954
+./BSD100_\image_SRF_2\img_046_SRF_2_HR.png
+PSNR/SSIM for bicubic: 34.4326 dB / 0.8851
+./BSD100_\image_SRF_2\img_047_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.8206 dB / 0.8039
+./BSD100_\image_SRF_2\img_047_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.6362 dB / 0.7744
+./BSD100_\image_SRF_2\img_048_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.3999 dB / 0.8237
+./BSD100_\image_SRF_2\img_048_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.4385 dB / 0.7902
+./BSD100_\image_SRF_2\img_049_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.1769 dB / 0.9167
+./BSD100_\image_SRF_2\img_049_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.8078 dB / 0.8815
+./BSD100_\image_SRF_2\img_050_SRF_2_HR.png
+PSNR/SSIM for nearest: 34.7276 dB / 0.8968
+./BSD100_\image_SRF_2\img_050_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.8138 dB / 0.8844
+./BSD100_\image_SRF_2\img_051_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.2882 dB / 0.7999
+./BSD100_\image_SRF_2\img_051_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.5039 dB / 0.7822
+./BSD100_\image_SRF_2\img_052_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.8876 dB / 0.8367
+./BSD100_\image_SRF_2\img_052_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.6454 dB / 0.8106
+./BSD100_\image_SRF_2\img_053_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.8797 dB / 0.8939
+./BSD100_\image_SRF_2\img_053_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.0397 dB / 0.8822
+./BSD100_\image_SRF_2\img_054_SRF_2_HR.png
+PSNR/SSIM for nearest: 35.0183 dB / 0.8754
+./BSD100_\image_SRF_2\img_054_SRF_2_HR.png
+PSNR/SSIM for bicubic: 34.0112 dB / 0.8566
+./BSD100_\image_SRF_2\img_055_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.1099 dB / 0.8933
+./BSD100_\image_SRF_2\img_055_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.1661 dB / 0.8563
+./BSD100_\image_SRF_2\img_056_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.6280 dB / 0.8450
+./BSD100_\image_SRF_2\img_056_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.0635 dB / 0.8113
+./BSD100_\image_SRF_2\img_057_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.4498 dB / 0.6713
+./BSD100_\image_SRF_2\img_057_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.9309 dB / 0.6568
+./BSD100_\image_SRF_2\img_058_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.6623 dB / 0.8415
+./BSD100_\image_SRF_2\img_058_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.8821 dB / 0.8258
+./BSD100_\image_SRF_2\img_059_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.8372 dB / 0.8686
+./BSD100_\image_SRF_2\img_059_SRF_2_HR.png
+PSNR/SSIM for bicubic: 33.1723 dB / 0.8556
+./BSD100_\image_SRF_2\img_060_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.0998 dB / 0.8330
+./BSD100_\image_SRF_2\img_060_SRF_2_HR.png
+PSNR/SSIM for bicubic: 31.2860 dB / 0.8215
+./BSD100_\image_SRF_2\img_061_SRF_2_HR.png
+PSNR/SSIM for nearest: 35.7459 dB / 0.8744
+./BSD100_\image_SRF_2\img_061_SRF_2_HR.png
+PSNR/SSIM for bicubic: 35.0431 dB / 0.8644
+./BSD100_\image_SRF_2\img_062_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.3775 dB / 0.8667
+./BSD100_\image_SRF_2\img_062_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.2604 dB / 0.8493
+./BSD100_\image_SRF_2\img_063_SRF_2_HR.png
+PSNR/SSIM for nearest: 36.6744 dB / 0.9600
+./BSD100_\image_SRF_2\img_063_SRF_2_HR.png
+PSNR/SSIM for bicubic: 32.6030 dB / 0.9425
+./BSD100_\image_SRF_2\img_064_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.6049 dB / 0.8639
+./BSD100_\image_SRF_2\img_064_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.3214 dB / 0.8240
+./BSD100_\image_SRF_2\img_065_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.3209 dB / 0.7864
+./BSD100_\image_SRF_2\img_065_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.2391 dB / 0.7610
+./BSD100_\image_SRF_2\img_066_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.1957 dB / 0.8797
+./BSD100_\image_SRF_2\img_066_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.4755 dB / 0.8507
+./BSD100_\image_SRF_2\img_067_SRF_2_HR.png
+PSNR/SSIM for nearest: 41.7096 dB / 0.9826
+./BSD100_\image_SRF_2\img_067_SRF_2_HR.png
+PSNR/SSIM for bicubic: 39.2053 dB / 0.9785
+./BSD100_\image_SRF_2\img_068_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.2409 dB / 0.8019
+./BSD100_\image_SRF_2\img_068_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.0415 dB / 0.7632
+./BSD100_\image_SRF_2\img_069_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.5414 dB / 0.7875
+./BSD100_\image_SRF_2\img_069_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.9067 dB / 0.7728
+./BSD100_\image_SRF_2\img_070_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.5731 dB / 0.8969
+./BSD100_\image_SRF_2\img_070_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.5003 dB / 0.8681
+./BSD100_\image_SRF_2\img_071_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.7639 dB / 0.8434
+./BSD100_\image_SRF_2\img_071_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.6656 dB / 0.8305
+./BSD100_\image_SRF_2\img_072_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.5754 dB / 0.8181
+./BSD100_\image_SRF_2\img_072_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.3723 dB / 0.7838
+./BSD100_\image_SRF_2\img_073_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.5824 dB / 0.8047
+./BSD100_\image_SRF_2\img_073_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.7053 dB / 0.7774
+./BSD100_\image_SRF_2\img_074_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.2439 dB / 0.8186
+./BSD100_\image_SRF_2\img_074_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.2735 dB / 0.8000
+./BSD100_\image_SRF_2\img_075_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.7495 dB / 0.8046
+./BSD100_\image_SRF_2\img_075_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.6183 dB / 0.7844
+./BSD100_\image_SRF_2\img_076_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.1760 dB / 0.8834
+./BSD100_\image_SRF_2\img_076_SRF_2_HR.png
+PSNR/SSIM for bicubic: 31.7141 dB / 0.8595
+./BSD100_\image_SRF_2\img_077_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.3571 dB / 0.7261
+./BSD100_\image_SRF_2\img_077_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.7401 dB / 0.7036
+./BSD100_\image_SRF_2\img_078_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.5592 dB / 0.9147
+./BSD100_\image_SRF_2\img_078_SRF_2_HR.png
+PSNR/SSIM for bicubic: 32.0176 dB / 0.8896
+./BSD100_\image_SRF_2\img_079_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.5181 dB / 0.9396
+./BSD100_\image_SRF_2\img_079_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.3880 dB / 0.9296
+./BSD100_\image_SRF_2\img_080_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.4555 dB / 0.8959
+./BSD100_\image_SRF_2\img_080_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.8217 dB / 0.8811
+./BSD100_\image_SRF_2\img_081_SRF_2_HR.png
+PSNR/SSIM for nearest: 36.3658 dB / 0.9386
+./BSD100_\image_SRF_2\img_081_SRF_2_HR.png
+PSNR/SSIM for bicubic: 34.3930 dB / 0.9279
+./BSD100_\image_SRF_2\img_082_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.4004 dB / 0.8307
+./BSD100_\image_SRF_2\img_082_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.9133 dB / 0.8229
+./BSD100_\image_SRF_2\img_083_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.6574 dB / 0.7314
+./BSD100_\image_SRF_2\img_083_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.9755 dB / 0.7103
+./BSD100_\image_SRF_2\img_084_SRF_2_HR.png
+PSNR/SSIM for nearest: 22.6663 dB / 0.7477
+./BSD100_\image_SRF_2\img_084_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.0532 dB / 0.7296
+./BSD100_\image_SRF_2\img_085_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.9284 dB / 0.8607
+./BSD100_\image_SRF_2\img_085_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.5476 dB / 0.8397
+./BSD100_\image_SRF_2\img_086_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.3657 dB / 0.7839
+./BSD100_\image_SRF_2\img_086_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.2494 dB / 0.7529
+./BSD100_\image_SRF_2\img_087_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.6593 dB / 0.8282
+./BSD100_\image_SRF_2\img_087_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.7558 dB / 0.8016
+./BSD100_\image_SRF_2\img_088_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.6819 dB / 0.9001
+./BSD100_\image_SRF_2\img_088_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.7196 dB / 0.8671
+./BSD100_\image_SRF_2\img_089_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.3405 dB / 0.7537
+./BSD100_\image_SRF_2\img_089_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.5639 dB / 0.7327
+./BSD100_\image_SRF_2\img_090_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.4240 dB / 0.8568
+./BSD100_\image_SRF_2\img_090_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.2015 dB / 0.8193
+./BSD100_\image_SRF_2\img_091_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.7270 dB / 0.8436
+./BSD100_\image_SRF_2\img_091_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.6892 dB / 0.8192
+./BSD100_\image_SRF_2\img_092_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.7317 dB / 0.8259
+./BSD100_\image_SRF_2\img_092_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.6022 dB / 0.8076
+./BSD100_\image_SRF_2\img_093_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.8776 dB / 0.9553
+./BSD100_\image_SRF_2\img_093_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.8830 dB / 0.9190
+./BSD100_\image_SRF_2\img_094_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.7857 dB / 0.8704
+./BSD100_\image_SRF_2\img_094_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.1508 dB / 0.8348
+./BSD100_\image_SRF_2\img_095_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.4436 dB / 0.8700
+./BSD100_\image_SRF_2\img_095_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.3061 dB / 0.8471
+./BSD100_\image_SRF_2\img_096_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.5016 dB / 0.5476
+./BSD100_\image_SRF_2\img_096_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.3444 dB / 0.5494
+./BSD100_\image_SRF_2\img_097_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.5335 dB / 0.7141
+./BSD100_\image_SRF_2\img_097_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.9893 dB / 0.6979
+./BSD100_\image_SRF_2\img_098_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.8465 dB / 0.8915
+./BSD100_\image_SRF_2\img_098_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.3841 dB / 0.8575
+./BSD100_\image_SRF_2\img_099_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.6581 dB / 0.8368
+./BSD100_\image_SRF_2\img_099_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.5041 dB / 0.8100
+./BSD100_\image_SRF_2\img_100_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.4510 dB / 0.8438
+./BSD100_\image_SRF_2\img_100_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.0533 dB / 0.8176
+Bicu:  29.600866156272865 0.8494250161841667
+Near:  28.29182783934023 0.8265473203815987
+
+///////////////////////////////////////////
+./Urban100_\image_SRF_2\img_001_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.9197 dB / 0.8632
+./Urban100_\image_SRF_2\img_001_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.1942 dB / 0.8283
+./Urban100_\image_SRF_2\img_002_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.1539 dB / 0.8791
+./Urban100_\image_SRF_2\img_002_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.2191 dB / 0.8418
+./Urban100_\image_SRF_2\img_003_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.7888 dB / 0.8369
+./Urban100_\image_SRF_2\img_003_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.4198 dB / 0.8028
+./Urban100_\image_SRF_2\img_004_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.3082 dB / 0.8929
+./Urban100_\image_SRF_2\img_004_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.3053 dB / 0.8450
+./Urban100_\image_SRF_2\img_005_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.2381 dB / 0.9038
+./Urban100_\image_SRF_2\img_005_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.9860 dB / 0.8651
+./Urban100_\image_SRF_2\img_006_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.7375 dB / 0.7937
+./Urban100_\image_SRF_2\img_006_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.6583 dB / 0.7556
+./Urban100_\image_SRF_2\img_007_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.1302 dB / 0.9007
+./Urban100_\image_SRF_2\img_007_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.5718 dB / 0.8576
+./Urban100_\image_SRF_2\img_008_SRF_2_HR.png
+PSNR/SSIM for nearest: 22.7494 dB / 0.7747
+./Urban100_\image_SRF_2\img_008_SRF_2_HR.png
+PSNR/SSIM for bicubic: 21.6098 dB / 0.7361
+./Urban100_\image_SRF_2\img_009_SRF_2_HR.png
+PSNR/SSIM for nearest: 33.6904 dB / 0.8995
+./Urban100_\image_SRF_2\img_009_SRF_2_HR.png
+PSNR/SSIM for bicubic: 32.6310 dB / 0.8890
+./Urban100_\image_SRF_2\img_010_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.5783 dB / 0.8753
+./Urban100_\image_SRF_2\img_010_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.2094 dB / 0.8566
+./Urban100_\image_SRF_2\img_011_SRF_2_HR.png
+PSNR/SSIM for nearest: 20.6351 dB / 0.8018
+./Urban100_\image_SRF_2\img_011_SRF_2_HR.png
+PSNR/SSIM for bicubic: 19.4805 dB / 0.7849
+./Urban100_\image_SRF_2\img_012_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.3784 dB / 0.8400
+./Urban100_\image_SRF_2\img_012_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.0398 dB / 0.8098
+./Urban100_\image_SRF_2\img_013_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.1699 dB / 0.8872
+./Urban100_\image_SRF_2\img_013_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.7629 dB / 0.8503
+./Urban100_\image_SRF_2\img_014_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.3156 dB / 0.8445
+./Urban100_\image_SRF_2\img_014_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.2736 dB / 0.8210
+./Urban100_\image_SRF_2\img_015_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.4897 dB / 0.8660
+./Urban100_\image_SRF_2\img_015_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.3838 dB / 0.8329
+./Urban100_\image_SRF_2\img_016_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.8479 dB / 0.9359
+./Urban100_\image_SRF_2\img_016_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.0590 dB / 0.9138
+./Urban100_\image_SRF_2\img_017_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.1954 dB / 0.8663
+./Urban100_\image_SRF_2\img_017_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.6444 dB / 0.8311
+./Urban100_\image_SRF_2\img_018_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.0680 dB / 0.8377
+./Urban100_\image_SRF_2\img_018_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.4546 dB / 0.8017
+./Urban100_\image_SRF_2\img_019_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.7727 dB / 0.8502
+./Urban100_\image_SRF_2\img_019_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.4261 dB / 0.8189
+./Urban100_\image_SRF_2\img_020_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.7797 dB / 0.8438
+./Urban100_\image_SRF_2\img_020_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.7805 dB / 0.8172
+./Urban100_\image_SRF_2\img_021_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.9415 dB / 0.8915
+./Urban100_\image_SRF_2\img_021_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.9808 dB / 0.8591
+./Urban100_\image_SRF_2\img_022_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.7692 dB / 0.8860
+./Urban100_\image_SRF_2\img_022_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.6672 dB / 0.8671
+./Urban100_\image_SRF_2\img_023_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.4260 dB / 0.9340
+./Urban100_\image_SRF_2\img_023_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.5005 dB / 0.8893
+./Urban100_\image_SRF_2\img_024_SRF_2_HR.png
+PSNR/SSIM for nearest: 22.8949 dB / 0.7436
+./Urban100_\image_SRF_2\img_024_SRF_2_HR.png
+PSNR/SSIM for bicubic: 21.9422 dB / 0.7254
+./Urban100_\image_SRF_2\img_025_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.4255 dB / 0.9275
+./Urban100_\image_SRF_2\img_025_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.0569 dB / 0.8916
+./Urban100_\image_SRF_2\img_026_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.9079 dB / 0.8543
+./Urban100_\image_SRF_2\img_026_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.1477 dB / 0.8468
+./Urban100_\image_SRF_2\img_027_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.0242 dB / 0.8942
+./Urban100_\image_SRF_2\img_027_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.4219 dB / 0.8664
+./Urban100_\image_SRF_2\img_028_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.0558 dB / 0.9180
+./Urban100_\image_SRF_2\img_028_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.2289 dB / 0.8933
+./Urban100_\image_SRF_2\img_029_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.9056 dB / 0.8575
+./Urban100_\image_SRF_2\img_029_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.1716 dB / 0.8266
+./Urban100_\image_SRF_2\img_030_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.5016 dB / 0.8363
+./Urban100_\image_SRF_2\img_030_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.2318 dB / 0.8061
+./Urban100_\image_SRF_2\img_031_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.7483 dB / 0.9173
+./Urban100_\image_SRF_2\img_031_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.7253 dB / 0.8869
+./Urban100_\image_SRF_2\img_032_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.4297 dB / 0.8582
+./Urban100_\image_SRF_2\img_032_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.4384 dB / 0.8433
+./Urban100_\image_SRF_2\img_033_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.1224 dB / 0.8148
+./Urban100_\image_SRF_2\img_033_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.2829 dB / 0.8040
+./Urban100_\image_SRF_2\img_034_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.1190 dB / 0.8047
+./Urban100_\image_SRF_2\img_034_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.7977 dB / 0.7798
+./Urban100_\image_SRF_2\img_035_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.2685 dB / 0.9099
+./Urban100_\image_SRF_2\img_035_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.5517 dB / 0.8592
+./Urban100_\image_SRF_2\img_036_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.5717 dB / 0.9001
+./Urban100_\image_SRF_2\img_036_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.5384 dB / 0.8605
+./Urban100_\image_SRF_2\img_037_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.2679 dB / 0.8592
+./Urban100_\image_SRF_2\img_037_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.5999 dB / 0.8292
+./Urban100_\image_SRF_2\img_038_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.2534 dB / 0.7424
+./Urban100_\image_SRF_2\img_038_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.4477 dB / 0.7238
+./Urban100_\image_SRF_2\img_039_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.2862 dB / 0.8249
+./Urban100_\image_SRF_2\img_039_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.1761 dB / 0.8074
+./Urban100_\image_SRF_2\img_040_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.7440 dB / 0.8857
+./Urban100_\image_SRF_2\img_040_SRF_2_HR.png
+PSNR/SSIM for bicubic: 21.6492 dB / 0.8533
+./Urban100_\image_SRF_2\img_041_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.7766 dB / 0.9023
+./Urban100_\image_SRF_2\img_041_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.2000 dB / 0.8542
+./Urban100_\image_SRF_2\img_042_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.9700 dB / 0.9079
+./Urban100_\image_SRF_2\img_042_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.9544 dB / 0.8680
+./Urban100_\image_SRF_2\img_043_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.0508 dB / 0.9130
+./Urban100_\image_SRF_2\img_043_SRF_2_HR.png
+PSNR/SSIM for bicubic: 21.5403 dB / 0.8648
+./Urban100_\image_SRF_2\img_044_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.7943 dB / 0.8811
+./Urban100_\image_SRF_2\img_044_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.5210 dB / 0.8415
+./Urban100_\image_SRF_2\img_045_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.5955 dB / 0.8544
+./Urban100_\image_SRF_2\img_045_SRF_2_HR.png
+PSNR/SSIM for bicubic: 21.7460 dB / 0.8054
+./Urban100_\image_SRF_2\img_046_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.1262 dB / 0.8312
+./Urban100_\image_SRF_2\img_046_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.8256 dB / 0.8303
+./Urban100_\image_SRF_2\img_047_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.1662 dB / 0.8009
+./Urban100_\image_SRF_2\img_047_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.2009 dB / 0.7728
+./Urban100_\image_SRF_2\img_048_SRF_2_HR.png
+PSNR/SSIM for nearest: 21.7792 dB / 0.8296
+./Urban100_\image_SRF_2\img_048_SRF_2_HR.png
+PSNR/SSIM for bicubic: 21.1532 dB / 0.8242
+./Urban100_\image_SRF_2\img_049_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.4798 dB / 0.8429
+./Urban100_\image_SRF_2\img_049_SRF_2_HR.png
+PSNR/SSIM for bicubic: 21.7379 dB / 0.8031
+./Urban100_\image_SRF_2\img_050_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.2461 dB / 0.8744
+./Urban100_\image_SRF_2\img_050_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.0472 dB / 0.8503
+./Urban100_\image_SRF_2\img_051_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.5420 dB / 0.8809
+./Urban100_\image_SRF_2\img_051_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.0975 dB / 0.8464
+./Urban100_\image_SRF_2\img_052_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.4404 dB / 0.8847
+./Urban100_\image_SRF_2\img_052_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.3065 dB / 0.8540
+./Urban100_\image_SRF_2\img_053_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.1330 dB / 0.8476
+./Urban100_\image_SRF_2\img_053_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.7763 dB / 0.8171
+./Urban100_\image_SRF_2\img_054_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.8390 dB / 0.8247
+./Urban100_\image_SRF_2\img_054_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.0196 dB / 0.8051
+./Urban100_\image_SRF_2\img_055_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.9059 dB / 0.8782
+./Urban100_\image_SRF_2\img_055_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.3273 dB / 0.8580
+./Urban100_\image_SRF_2\img_056_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.0478 dB / 0.8278
+./Urban100_\image_SRF_2\img_056_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.4513 dB / 0.7918
+./Urban100_\image_SRF_2\img_057_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.7824 dB / 0.8992
+./Urban100_\image_SRF_2\img_057_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.1820 dB / 0.8675
+./Urban100_\image_SRF_2\img_058_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.4594 dB / 0.8584
+./Urban100_\image_SRF_2\img_058_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.3368 dB / 0.8194
+./Urban100_\image_SRF_2\img_059_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.8825 dB / 0.8100
+./Urban100_\image_SRF_2\img_059_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.4537 dB / 0.8016
+./Urban100_\image_SRF_2\img_060_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.5715 dB / 0.7945
+./Urban100_\image_SRF_2\img_060_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.5156 dB / 0.7695
+./Urban100_\image_SRF_2\img_061_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.7165 dB / 0.8229
+./Urban100_\image_SRF_2\img_061_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.7315 dB / 0.8047
+./Urban100_\image_SRF_2\img_062_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.5259 dB / 0.8091
+./Urban100_\image_SRF_2\img_062_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.4525 dB / 0.7829
+./Urban100_\image_SRF_2\img_063_SRF_2_HR.png
+PSNR/SSIM for nearest: 21.0044 dB / 0.7545
+./Urban100_\image_SRF_2\img_063_SRF_2_HR.png
+PSNR/SSIM for bicubic: 20.2483 dB / 0.7496
+./Urban100_\image_SRF_2\img_064_SRF_2_HR.png
+PSNR/SSIM for nearest: 28.5007 dB / 0.9008
+./Urban100_\image_SRF_2\img_064_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.4012 dB / 0.8568
+./Urban100_\image_SRF_2\img_065_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.3191 dB / 0.8249
+./Urban100_\image_SRF_2\img_065_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.9894 dB / 0.7896
+./Urban100_\image_SRF_2\img_066_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.1854 dB / 0.8278
+./Urban100_\image_SRF_2\img_066_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.1138 dB / 0.7957
+./Urban100_\image_SRF_2\img_067_SRF_2_HR.png
+PSNR/SSIM for nearest: 20.7287 dB / 0.8443
+./Urban100_\image_SRF_2\img_067_SRF_2_HR.png
+PSNR/SSIM for bicubic: 19.4999 dB / 0.8193
+./Urban100_\image_SRF_2\img_068_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.8236 dB / 0.8883
+./Urban100_\image_SRF_2\img_068_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.7599 dB / 0.8468
+./Urban100_\image_SRF_2\img_069_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.6574 dB / 0.8369
+./Urban100_\image_SRF_2\img_069_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.3893 dB / 0.8071
+./Urban100_\image_SRF_2\img_070_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.8377 dB / 0.7995
+./Urban100_\image_SRF_2\img_070_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.1795 dB / 0.7858
+./Urban100_\image_SRF_2\img_071_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.4005 dB / 0.8052
+./Urban100_\image_SRF_2\img_071_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.5408 dB / 0.7851
+./Urban100_\image_SRF_2\img_072_SRF_2_HR.png
+PSNR/SSIM for nearest: 20.7972 dB / 0.8478
+./Urban100_\image_SRF_2\img_072_SRF_2_HR.png
+PSNR/SSIM for bicubic: 18.8686 dB / 0.8045
+./Urban100_\image_SRF_2\img_073_SRF_2_HR.png
+PSNR/SSIM for nearest: 22.1956 dB / 0.7265
+./Urban100_\image_SRF_2\img_073_SRF_2_HR.png
+PSNR/SSIM for bicubic: 21.8719 dB / 0.7133
+./Urban100_\image_SRF_2\img_074_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.8433 dB / 0.7686
+./Urban100_\image_SRF_2\img_074_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.3382 dB / 0.7641
+./Urban100_\image_SRF_2\img_075_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.8770 dB / 0.9215
+./Urban100_\image_SRF_2\img_075_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.7896 dB / 0.8969
+./Urban100_\image_SRF_2\img_076_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.2379 dB / 0.7601
+./Urban100_\image_SRF_2\img_076_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.6496 dB / 0.7521
+./Urban100_\image_SRF_2\img_077_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.6720 dB / 0.8500
+./Urban100_\image_SRF_2\img_077_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.5856 dB / 0.8279
+./Urban100_\image_SRF_2\img_078_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.2756 dB / 0.8361
+./Urban100_\image_SRF_2\img_078_SRF_2_HR.png
+PSNR/SSIM for bicubic: 29.3393 dB / 0.8165
+./Urban100_\image_SRF_2\img_079_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.9954 dB / 0.8534
+./Urban100_\image_SRF_2\img_079_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.5136 dB / 0.8195
+./Urban100_\image_SRF_2\img_080_SRF_2_HR.png
+PSNR/SSIM for nearest: 36.9511 dB / 0.9649
+./Urban100_\image_SRF_2\img_080_SRF_2_HR.png
+PSNR/SSIM for bicubic: 35.0254 dB / 0.9528
+./Urban100_\image_SRF_2\img_081_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.4085 dB / 0.9552
+./Urban100_\image_SRF_2\img_081_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.9146 dB / 0.9142
+./Urban100_\image_SRF_2\img_082_SRF_2_HR.png
+PSNR/SSIM for nearest: 30.4043 dB / 0.9446
+./Urban100_\image_SRF_2\img_082_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.3313 dB / 0.9139
+./Urban100_\image_SRF_2\img_083_SRF_2_HR.png
+PSNR/SSIM for nearest: 24.7158 dB / 0.8171
+./Urban100_\image_SRF_2\img_083_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.4758 dB / 0.7868
+./Urban100_\image_SRF_2\img_084_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.6912 dB / 0.8865
+./Urban100_\image_SRF_2\img_084_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.7745 dB / 0.8481
+./Urban100_\image_SRF_2\img_085_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.7794 dB / 0.9330
+./Urban100_\image_SRF_2\img_085_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.5413 dB / 0.9204
+./Urban100_\image_SRF_2\img_086_SRF_2_HR.png
+PSNR/SSIM for nearest: 32.4442 dB / 0.9188
+./Urban100_\image_SRF_2\img_086_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.5202 dB / 0.9032
+./Urban100_\image_SRF_2\img_087_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.4395 dB / 0.8809
+./Urban100_\image_SRF_2\img_087_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.9412 dB / 0.8590
+./Urban100_\image_SRF_2\img_088_SRF_2_HR.png
+PSNR/SSIM for nearest: 22.9734 dB / 0.7608
+./Urban100_\image_SRF_2\img_088_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.0105 dB / 0.7312
+./Urban100_\image_SRF_2\img_089_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.1850 dB / 0.8624
+./Urban100_\image_SRF_2\img_089_SRF_2_HR.png
+PSNR/SSIM for bicubic: 27.5871 dB / 0.8334
+./Urban100_\image_SRF_2\img_090_SRF_2_HR.png
+PSNR/SSIM for nearest: 31.6698 dB / 0.9256
+./Urban100_\image_SRF_2\img_090_SRF_2_HR.png
+PSNR/SSIM for bicubic: 30.1030 dB / 0.8986
+./Urban100_\image_SRF_2\img_091_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.2025 dB / 0.7928
+./Urban100_\image_SRF_2\img_091_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.8689 dB / 0.7602
+./Urban100_\image_SRF_2\img_092_SRF_2_HR.png
+PSNR/SSIM for nearest: 20.4539 dB / 0.6995
+./Urban100_\image_SRF_2\img_092_SRF_2_HR.png
+PSNR/SSIM for bicubic: 19.8835 dB / 0.6828
+./Urban100_\image_SRF_2\img_093_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.3493 dB / 0.8964
+./Urban100_\image_SRF_2\img_093_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.7610 dB / 0.8461
+./Urban100_\image_SRF_2\img_094_SRF_2_HR.png
+PSNR/SSIM for nearest: 29.5710 dB / 0.8785
+./Urban100_\image_SRF_2\img_094_SRF_2_HR.png
+PSNR/SSIM for bicubic: 28.0963 dB / 0.8529
+./Urban100_\image_SRF_2\img_095_SRF_2_HR.png
+PSNR/SSIM for nearest: 22.9785 dB / 0.6220
+./Urban100_\image_SRF_2\img_095_SRF_2_HR.png
+PSNR/SSIM for bicubic: 22.5200 dB / 0.6182
+./Urban100_\image_SRF_2\img_096_SRF_2_HR.png
+PSNR/SSIM for nearest: 23.8647 dB / 0.8392
+./Urban100_\image_SRF_2\img_096_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.1208 dB / 0.8192
+./Urban100_\image_SRF_2\img_097_SRF_2_HR.png
+PSNR/SSIM for nearest: 27.7413 dB / 0.8685
+./Urban100_\image_SRF_2\img_097_SRF_2_HR.png
+PSNR/SSIM for bicubic: 26.5344 dB / 0.8416
+./Urban100_\image_SRF_2\img_098_SRF_2_HR.png
+PSNR/SSIM for nearest: 25.4565 dB / 0.7328
+./Urban100_\image_SRF_2\img_098_SRF_2_HR.png
+PSNR/SSIM for bicubic: 24.7159 dB / 0.7106
+./Urban100_\image_SRF_2\img_099_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.3559 dB / 0.7959
+./Urban100_\image_SRF_2\img_099_SRF_2_HR.png
+PSNR/SSIM for bicubic: 25.1566 dB / 0.7786
+./Urban100_\image_SRF_2\img_100_SRF_2_HR.png
+PSNR/SSIM for nearest: 26.4131 dB / 0.8097
+./Urban100_\image_SRF_2\img_100_SRF_2_HR.png
+PSNR/SSIM for bicubic: 23.8092 dB / 0.7764
+Bicu:  26.998414203544414 0.8506030104448847
+Near:  25.44014204532674 0.8228985101723032

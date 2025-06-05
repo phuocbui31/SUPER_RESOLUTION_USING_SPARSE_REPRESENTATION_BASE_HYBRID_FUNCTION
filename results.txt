@@ -1,0 +1,7 @@
+./Set14\image_SRF_2/img_001_SRF_2_HR.png
+PSNR/SSIM for HFSR: 24.9732 dB / 0.7040
+(480, 500, 3)
+
+./Set14\image_SRF_2/img_003_SRF_2_HR.png
+PSNR/SSIM for HFSR: 28.3078 dB / 0.8558
+(512, 512)
